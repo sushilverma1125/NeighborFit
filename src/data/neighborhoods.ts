@@ -14,7 +14,7 @@ export const neighborhoods: NeighborhoodData[] = [
       diversity: 9
     },
     housing: {
-      medianPrice: 12000000,
+      medianPrice: 1200000,
       rentalAvailability: 9,
       housingTypes: ['apartment', 'villa', 'pg']
     },
